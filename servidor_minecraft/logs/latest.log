@@ -36,3 +36,20 @@
 [18:28:39] [Server thread/INFO]: Unknown or incomplete command, see below for error
 [18:28:39] [Server thread/INFO]: home/codespace/.python/current/bin/python /workspaces/Drx/msx.py<--[HERE]
 [18:29:39] [Server thread/INFO]: Server empty for 60 seconds, pausing
+[19:20:06] [Server thread/INFO]: Drxzero[/127.117.178.1:55575] logged in with entity id 22 at (34.5, 76.0, -23.5)
+[19:20:07] [Server thread/INFO]: Drxzero joined the game
+[19:21:37] [Server thread/INFO]: Drxzero lost connection: Timed out
+[19:21:37] [Server thread/INFO]: Drxzero left the game
+[19:22:37] [Server thread/INFO]: Server empty for 60 seconds, pausing
+[19:22:53] [Server thread/INFO]: Drxzero[/127.117.178.1:35069] logged in with entity id 657 at (35.269120020663166, 74.0, -22.157473502963565)
+[19:22:53] [Server thread/INFO]: Drxzero joined the game
+[19:26:25] [Server thread/INFO]: Drxzero lost connection: Disconnected
+[19:26:25] [Server thread/INFO]: Drxzero left the game
+[19:27:05] [Server thread/INFO]: luisoyuela[/127.15.101.237:42259] logged in with entity id 1465 at (35.5, 73.0, -13.5)
+[19:27:05] [Server thread/INFO]: luisoyuela joined the game
+[19:27:08] [Server thread/INFO]: Drxzero[/127.117.178.1:45115] logged in with entity id 1702 at (8.964986114708397, 69.0, -15.92048509327649)
+[19:27:08] [Server thread/INFO]: Drxzero joined the game
+[19:27:14] [Server thread/INFO]: luisoyuela lost connection: Disconnected
+[19:27:14] [Server thread/INFO]: luisoyuela left the game
+[19:27:48] [Server thread/INFO]: luisoyuela[/127.15.101.237:41135] logged in with entity id 1849 at (39.711321029704976, 68.0, -19.67317825439854)
+[19:27:48] [Server thread/INFO]: luisoyuela joined the game
