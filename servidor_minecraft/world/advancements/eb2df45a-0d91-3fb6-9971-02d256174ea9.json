@@ -706,6 +706,7 @@
     "criteria": {
       "minecraft:skeleton": "2025-09-07 20:17:29 +0000",
       "minecraft:magma_cube": "2025-09-07 19:53:00 +0000",
+      "minecraft:spider": "2025-09-08 04:04:22 +0000",
       "minecraft:zombie": "2025-09-07 20:28:35 +0000"
     },
     "done": false
