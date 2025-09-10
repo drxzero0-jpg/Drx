@@ -41,3 +41,12 @@
 [00:46:44] [Server thread/INFO]: Drxzero joined the game
 [00:51:55] [Server thread/INFO]: Villager cuf['Villager'/96, l='ServerLevel[world]', x=120.92, y=51.00, z=1359.50] died, message: 'Villager was slain by Zombie'
 [01:10:09] [Server thread/WARN]: Mismatch in destroy block pos: jb{x=103, y=59, z=1422} jb{x=103, y=60, z=1422}
+[01:33:03] [Server thread/INFO]: Drxzero lost connection: Timed out
+[01:33:03] [Server thread/INFO]: Drxzero left the game
+[01:33:03] [Server thread/WARN]: handleDisconnection() called twice
+[01:33:10] [Server thread/INFO]: Drxzero[/127.117.178.1:44811] logged in with entity id 11184 at (160.4072150879075, 69.24918707874468, 1403.206075432969)
+[01:33:10] [Server thread/INFO]: Drxzero joined the game
+[01:39:23] [Server thread/INFO]: luisoyuela lost connection: Disconnected
+[01:39:23] [Server thread/INFO]: luisoyuela left the game
+[01:39:26] [Server thread/INFO]: luisoyuela[/127.15.101.237:34357] logged in with entity id 12470 at (167.91404196427774, 68.0, 1414.8637606168104)
+[01:39:26] [Server thread/INFO]: luisoyuela joined the game
