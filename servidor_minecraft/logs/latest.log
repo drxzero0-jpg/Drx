@@ -39,3 +39,5 @@
 [00:41:10] [Server thread/INFO]: luisoyuela joined the game
 [00:46:44] [Server thread/INFO]: Drxzero[/127.117.178.1:46873] logged in with entity id 976 at (158.30000001192093, 67.0, 1356.6124052570644)
 [00:46:44] [Server thread/INFO]: Drxzero joined the game
+[00:51:55] [Server thread/INFO]: Villager cuf['Villager'/96, l='ServerLevel[world]', x=120.92, y=51.00, z=1359.50] died, message: 'Villager was slain by Zombie'
+[01:10:09] [Server thread/WARN]: Mismatch in destroy block pos: jb{x=103, y=59, z=1422} jb{x=103, y=60, z=1422}
